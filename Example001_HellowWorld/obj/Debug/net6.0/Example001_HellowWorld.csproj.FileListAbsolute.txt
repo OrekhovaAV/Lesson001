@@ -1,0 +1,15 @@
+C:\Users\79259\Desktop\Учеба\Знакомство с C#\Lesson001\Example001_HellowWorld\bin\Debug\net6.0\Example001_HellowWorld.exe
+C:\Users\79259\Desktop\Учеба\Знакомство с C#\Lesson001\Example001_HellowWorld\bin\Debug\net6.0\Example001_HellowWorld.deps.json
+C:\Users\79259\Desktop\Учеба\Знакомство с C#\Lesson001\Example001_HellowWorld\bin\Debug\net6.0\Example001_HellowWorld.runtimeconfig.json
+C:\Users\79259\Desktop\Учеба\Знакомство с C#\Lesson001\Example001_HellowWorld\bin\Debug\net6.0\Example001_HellowWorld.dll
+C:\Users\79259\Desktop\Учеба\Знакомство с C#\Lesson001\Example001_HellowWorld\bin\Debug\net6.0\Example001_HellowWorld.pdb
+C:\Users\79259\Desktop\Учеба\Знакомство с C#\Lesson001\Example001_HellowWorld\obj\Debug\net6.0\Example001_HellowWorld.csproj.AssemblyReference.cache
+C:\Users\79259\Desktop\Учеба\Знакомство с C#\Lesson001\Example001_HellowWorld\obj\Debug\net6.0\Example001_HellowWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79259\Desktop\Учеба\Знакомство с C#\Lesson001\Example001_HellowWorld\obj\Debug\net6.0\Example001_HellowWorld.AssemblyInfoInputs.cache
+C:\Users\79259\Desktop\Учеба\Знакомство с C#\Lesson001\Example001_HellowWorld\obj\Debug\net6.0\Example001_HellowWorld.AssemblyInfo.cs
+C:\Users\79259\Desktop\Учеба\Знакомство с C#\Lesson001\Example001_HellowWorld\obj\Debug\net6.0\Example001_HellowWorld.csproj.CoreCompileInputs.cache
+C:\Users\79259\Desktop\Учеба\Знакомство с C#\Lesson001\Example001_HellowWorld\obj\Debug\net6.0\Example001_HellowWorld.dll
+C:\Users\79259\Desktop\Учеба\Знакомство с C#\Lesson001\Example001_HellowWorld\obj\Debug\net6.0\refint\Example001_HellowWorld.dll
+C:\Users\79259\Desktop\Учеба\Знакомство с C#\Lesson001\Example001_HellowWorld\obj\Debug\net6.0\Example001_HellowWorld.pdb
+C:\Users\79259\Desktop\Учеба\Знакомство с C#\Lesson001\Example001_HellowWorld\obj\Debug\net6.0\Example001_HellowWorld.genruntimeconfig.cache
+C:\Users\79259\Desktop\Учеба\Знакомство с C#\Lesson001\Example001_HellowWorld\obj\Debug\net6.0\ref\Example001_HellowWorld.dll
